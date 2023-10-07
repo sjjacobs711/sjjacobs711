@@ -8,8 +8,6 @@ Moving into Data Analytics is for new for me. Collecting data is something I hav
 
 A little background about me. I have two Bachelors degrees, one in Chemistry and the other in Anthropology. My work experience comes from three manufacturing companies, each in different areas. 
 
-
-
 <!---
 sjjacobs711/sjjacobs711 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
